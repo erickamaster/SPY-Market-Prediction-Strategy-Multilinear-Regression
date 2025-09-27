@@ -11,7 +11,7 @@ This project demonstrates a multi-linear regression strategy to predict SPY move
 - Calculates Sharpe Ratio and Maximum Drawdown
 
 ## Usage
-Open the Jupyter Notebook `Multiple Linear Regression model-SPY prediction.ipynb` and run the cells sequentially.  
+Open the Jupyter Notebook `Multiple Linear Regression model-SPY prediction-1YEAR.ipynb` and run the cells sequentially.  
 Make sure to install the dependencies:
 
 ```bash
